@@ -1,5 +1,24 @@
 # AntiEave 
 
+Anti-eavesdropping for WiFi sensing.
+
+Codebase for paper: "Scheduled Spatial Sensing against Adversarial WiFi Sensing" in PerCom 2023.
+
+Cite this work as:
+
+```
+@INPROCEEDINGS{AntiEave,
+AUTHOR={S. M. Hernandez and Eyuphan Bulut},
+TITLE={{Scheduled Spatial Sensing against Adversarial WiFi Sensing}},
+BOOKTITLE="Proceedings of the International Conference on Pervasive Computing and
+Communications (PerCom 2023)",
+ADDRESS="Atlanta, USA",
+DAYS="13",
+MONTH=mar,
+YEAR=2023,
+}
+```
+
 - Figure 1
   - Not Applicable
 - Figure 2 
